@@ -1,13 +1,20 @@
 {
-    "Sam": {
-        "Age": 26,
+    "Luc": {
+        "Age": 28,
         "Colour": "Blue",
-        "Languages": ["Python", "Javascript", "Rust"]
+        "Languages": [
+            "Python",
+            "Javascript",
+            "Rust"
+        ]
     },
-    
     "Tom": {
         "Age": 26,
         "Colour": "Green",
-        "Languages": ["French", "German", "Polish"]
+        "Languages": [
+            "French",
+            "German",
+            "Polish"
+        ]
     }
 }
